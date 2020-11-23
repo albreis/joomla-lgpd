@@ -1,9 +1,6 @@
 # Joomla LGPD
 Módulo para exibir mensagem sobre a LGPD 
 
-## Instalação
-Vídeo: https://youtu.be/3CwchZscwEM
-
 ## Site
 
 ## Administrator
